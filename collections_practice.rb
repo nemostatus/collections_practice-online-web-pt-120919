@@ -33,4 +33,5 @@ swap_elements([1,2,3,4,5])
 
 def reverse_array(array)
   array.reverse
+end
   
