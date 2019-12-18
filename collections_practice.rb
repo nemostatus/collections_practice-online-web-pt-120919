@@ -50,6 +50,14 @@ def find_a(array)
   end
   find_a(["apple","berry","cherry"])
   
-  def sum_array(array)
+
+def sum_array(array)
+  sum = 0
+  array.each do |num|
+    sum+=num
+  end
+  sum
+end 
+sum_array([1,2,3,4,5])
     
   
