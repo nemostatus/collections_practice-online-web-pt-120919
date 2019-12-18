@@ -29,5 +29,5 @@ def swap_elements(array)
   array
 end
 
-swap_elements
+swap_elements([1,2,3,4,5])
   
