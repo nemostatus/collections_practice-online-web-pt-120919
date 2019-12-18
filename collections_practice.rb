@@ -60,5 +60,14 @@ def sum_array(array)
 end 
 sum_array([1,2,3,4,5])
 
-
+def add_s(array)
+  array.collect do |word|
+    if array[1] == word
+      word
+    else
+      word + "s"
+    end
+  end
+end
+add_s(["apple","berry","cherry"])
   
