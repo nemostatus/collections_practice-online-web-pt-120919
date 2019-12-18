@@ -50,3 +50,5 @@ def find_a(array)
   end
   find_a(["apple","berry","cherry"])
   
+  def sum_array
+  
