@@ -13,4 +13,5 @@ elsif a>b
   -1
 end
 end
+end
 sort_array_desc([1,2,3,4,5])
