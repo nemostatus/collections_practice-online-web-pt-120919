@@ -22,4 +22,6 @@ a.length <=> b.length
 end
 end
 sort_array_char_count(["hello","everyone","out","there"]) 
+
+
   
