@@ -23,5 +23,5 @@ end
 end
 sort_array_char_count(["hello","everyone","out","there"]) 
 
-def swap_elements
+def swap_elements(array)
   
