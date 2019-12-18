@@ -21,6 +21,5 @@ string_array.sort do |a,b|
 a.length <=> b.length
 end
 end
-
-sort_array_char_count(["hello","everyone","out","there"]) sort_array_char_count(string_array)
+sort_array_char_count(["hello","everyone","out","there"]) 
   
