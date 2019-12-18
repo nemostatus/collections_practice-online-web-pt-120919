@@ -7,8 +7,8 @@ def sort_array_desc(array)
 array.each sort |a,b|
 if a==b
   0
-  elsif a>b
-  0
-elsif a<b
+  elsif a<b
+  
+elsif a>b
   1
 end
